@@ -1,0 +1,1 @@
+STM32F103C8T8 + STM32CubeIDE : Send and reveive CAN messages in polling mode
